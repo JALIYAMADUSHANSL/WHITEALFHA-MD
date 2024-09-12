@@ -1,10 +1,13 @@
 
 <h1 align="center">WHITEALFHA-MD V1</h1>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=WHITEALFHA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+    
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=WHITEALFHA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+WHITEALFHA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;WHITEALFHA+OFFICIAL." alt="Typing SVG" /></a>
+
 </p>
 <p align="center">
 <a href="https://github.com/rmjmadu">
@@ -12,6 +15,9 @@
 </a>
 <hr>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 <p align="center">
 
@@ -19,8 +25,8 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frmjmadu%2FWHITEALFHA-MD-NEW&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork">
-    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA-MD-NEW?label=Fork&style=social">
+  <a href="https://github.com/rmjmadu/WHITEALFHA-MD/fork">
+    <img src="https://img.shields.io/github/forks/rmjmadu/WHITEALFHA-MD?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/rmjmadu/WHITEALFHA-MD/stargazers">
@@ -38,7 +44,7 @@
 
   </a>
   <a href="https://github.com/rmjmadu/WHITEALFHA-MD">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/rmjmadu/WHITEALFHA-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/rmjmadu/WHITEALFHA-MD">
@@ -53,33 +59,33 @@
 
 ## 💡 FOLLOW OUR CHANAL
 
-<a href="https://whatsapp.com/channel/0029VaoNmHJ4tRrvawED5o3c"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+<a href="https://whatsapp.com/channel/0029VaoNmHJ4tRrvawED5o3c"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
 <br>
 
 <div align="center">
  
-  <h1>👇 DEPLOY NOW 👇</h1>
+  <h1> 🔰DEPLOY NOW🔰 </h1>
 </div>
 
 <br>
 
-## 🎀 STEP 01 -  Fork The Repo
+## 🔰 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/rmjmadu/WHITEALFHA-MD-NEW/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK WHITEALFHA MD REPO" width="150"></a>
+<a href="https://github.com/rmjmadu/WHITEALFHA-MD-NEW/fork"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK WHITEALFHA MD REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## 🎀 STEP 02 -  Get Session
+## 🔰 STEP 02 -  Get Session
 
-<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-black" alt="GET SESSION" width="200"></a>
 
 
 <br>
 <br>
 
-## 🎀 STEP 03 -  Deployment Methods
+## 🔰 STEP 03 -  Deployment Methods
 
 [![madushan](https://img.shields.io/badge/whitealfha-md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/rmjmadu/WHITEALFHA-MD)
   
@@ -96,7 +102,7 @@
  
   
   
-  <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
+  <h1> 🔰 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
 </div>
 
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](....)
@@ -105,3 +111,8 @@
 ## Workflow Deploy Code 👇
 
  - [![Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JALIYAMADUSHANSL/Workflow-code.git) ***( fork & star this repository)***
+
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE+MY+BOT;WHITEALFHA-MD" alt="Typing SVG" /></a>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">    
+
