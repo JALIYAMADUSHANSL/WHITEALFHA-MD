@@ -79,9 +79,15 @@
 <br>
 <br>
 ## 🎀 STEP 03 -  Deployment Methods
+[![nima](https://img.shields.io/badge/whitealfha-md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/rmjmadu/WHITEALFHA-MD)
+  
+[![MADUSHAN](https://img.shields.io/badge/whitealfha md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=WHITEALFHA-MD)
+   
+[![nima](https://img.shields.io/badge/whitealfha md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![nima](https://img.shields.io/badge/whitealfha md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-<a href="https://github.com/Rmjmadu/WHITEALFHA-MD.git"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
-<br>
+[![nima](https://img.shields.io/badge/whitealfha md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 
 <div align="center">
