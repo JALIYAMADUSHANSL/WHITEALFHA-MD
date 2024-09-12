@@ -1,7 +1,7 @@
 {
   "name": "whitealfha-md",
   "version": "4.0.1",
-  "description": "Multi device whatsapp bot by whitealfha oficial",
+  "description": "Multi device whatsapp bot by oficial whitealfha",
   "main": "start.js",
   "directories": {
     "lib": "lib"
