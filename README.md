@@ -78,16 +78,18 @@
 
 <br>
 <br>
-## 🎀 STEP 03 -  Deployment Methods
-[![nima](https://img.shields.io/badge/whitealfha-md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/rmjmadu/WHITEALFHA-MD)
-  
-[![MADUSHAN](https://img.shields.io/badge/whitealfha md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=WHITEALFHA-MD)
-   
-[![nima](https://img.shields.io/badge/whitealfha md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
-   
-[![nima](https://img.shields.io/badge/whitealfha md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
-[![nima](https://img.shields.io/badge/whitealfha md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+## 🎀 STEP 03 -  Deployment Methods
+
+[![madushan](https://img.shields.io/badge/whitealfha-md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/rmjmadu/WHITEALFHA-MD)
+  
+[![madushansl](https://img.shields.io/badge/whitealfha-md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=WHITEALFHA-MD)
+   
+[![madushan](https://img.shields.io/badge/whitealfha-md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![madushan](https://img.shields.io/badge/whitealfha-md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+
+[![madushan](https://img.shields.io/badge/whitealfha-md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
 
 <div align="center">
@@ -95,6 +97,9 @@
   <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
 </div>
 
+<a href = "https://youtube.com/@madushanboy?si=t7r8Gp2k_S_iiD9q
+"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
+</br>
 
 ## Workflow Deploy Code 👇
 
