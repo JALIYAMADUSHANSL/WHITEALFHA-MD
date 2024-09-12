@@ -72,10 +72,12 @@
 
 ## 🔰 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/rmjmadu/WHITEALFHA-MD-NEW/fork"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK WHITEALFHA MD REPO" width="150"></a>
+<a href="https://github.com/rmjmadu/WHITEALFHA-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-black" alt="FORK WHITEALFHA MD REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
+
+https://github.com/JALIYAMADUSHANSL/WHITEALFHA-MD.git
 
 ## 🔰 STEP 02 -  Get Session
 
