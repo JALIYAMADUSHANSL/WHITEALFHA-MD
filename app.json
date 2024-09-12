@@ -1,8 +1,8 @@
 {
 
   "name": "WHITEALFHA-MD (1.0.0)",
-  "description": "WHITEALFHA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://i.ibb.co/YjdvYzc/file-Dk-CNr-FLShv-Gyty-Qux-Tr-N1x-Eo.webp",
+  "description": "WHITEALFHA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤",
+  "logo": "https://i.ibb.co/p22J5nQ/file-1nh1gowb-Fqjz1-YJGzgo8u1e-J.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "whitealfha-md"],
   "success_url": "/",
   "stack": "container",
@@ -22,7 +22,7 @@
     },
    "ALIVE_MSJ": {
     "description": "enter alive message",
-     "value": "i am alive now 🙋‍♂️"
+     "value": "i am alive now 🙋‍♂"
     },
   "HEROKU_APP_NAME": {
     "description": "put your heroku_app_name",
@@ -39,7 +39,7 @@
   },  
       "SUDO": {
   "description": "In addition to the bot number, enter another number here to control the bot",
-      "value": "94741064257"
+      "value": "94705106657"
   },
    "ANTILINK_VALUES": {
     "description": "When antilink is turned on, when this link is added, the user will be removed",
@@ -61,7 +61,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94741064257"
+       "value": "94705106657"
   },
    "SESSION_ID": {
     "description": "Scan the QR and enter the code "
@@ -88,7 +88,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "WHITEALFHA-MD🎊;whitealfha oficial✅",
+     "value": "WHITEALFHA-MD🎊;WHITEALFHA OFICIAL✅",
      "required": false 
   }
   
