@@ -91,16 +91,17 @@
 
 [![madushan](https://img.shields.io/badge/whitealfha-md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
 
-
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@madushanboy?si=t7r8Gp2k_S_iiD9q)
 <div align="center">
  
+  
+  
   <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
 </div>
 
-<a href = "https://youtube.com/@madushanboy?si=t7r8Gp2k_S_iiD9q
-"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
-</br>
-
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](....)
+<div align="center">
+ 
 ## Workflow Deploy Code 👇
 
-https://github.com/JALIYAMADUSHANSL/Workflow-code.git
+ - [![Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JALIYAMADUSHANSL/Workflow-code.git) ***( fork & star this repository)***
