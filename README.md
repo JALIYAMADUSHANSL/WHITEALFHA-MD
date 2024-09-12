@@ -73,17 +73,17 @@
 
 ## 🎀 STEP 02 -  Get Session
 
-<a href="https://rmjmadupair-3ea4809cee5a.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
 
 <br>
 <br>
 ## 🎀 STEP 03 -  Deployment Methods
 
-<a href="https://rmjmadu.github.io/WHITEALFHA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<a href="https://github.com/Rmjmadu/WHITEALFHA-MD.git"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
 
-https://pair-web-public.koyeb.app
+
 <div align="center">
  
   <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
