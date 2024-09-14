@@ -77,7 +77,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-https://github.com/JALIYAMADUSHANSL/WHITEALFHA-MD.git
 
 ## 🔰 STEP 02 -  Get Session
 
